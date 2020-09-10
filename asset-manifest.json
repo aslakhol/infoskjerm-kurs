@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/infoskjerm-kurs/static/css/main.5f361e03.chunk.css",
+    "main.js": "/infoskjerm-kurs/static/js/main.a6a85996.chunk.js",
+    "main.js.map": "/infoskjerm-kurs/static/js/main.a6a85996.chunk.js.map",
+    "runtime-main.js": "/infoskjerm-kurs/static/js/runtime-main.ded50dbf.js",
+    "runtime-main.js.map": "/infoskjerm-kurs/static/js/runtime-main.ded50dbf.js.map",
+    "static/js/2.7b06c8a6.chunk.js": "/infoskjerm-kurs/static/js/2.7b06c8a6.chunk.js",
+    "static/js/2.7b06c8a6.chunk.js.map": "/infoskjerm-kurs/static/js/2.7b06c8a6.chunk.js.map",
+    "index.html": "/infoskjerm-kurs/index.html",
+    "precache-manifest.4f989378f0fc792cc10743165ad56d45.js": "/infoskjerm-kurs/precache-manifest.4f989378f0fc792cc10743165ad56d45.js",
+    "service-worker.js": "/infoskjerm-kurs/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/infoskjerm-kurs/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.7b06c8a6.chunk.js.LICENSE.txt": "/infoskjerm-kurs/static/js/2.7b06c8a6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ded50dbf.js",
+    "static/js/2.7b06c8a6.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.a6a85996.chunk.js"
+  ]
+}
